@@ -1,7 +1,5 @@
 from math import sqrt
 
-from math import sqrt
-
 class Transaction:
     """This class defined functions of transactions."""
     

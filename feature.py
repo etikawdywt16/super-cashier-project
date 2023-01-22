@@ -1,4 +1,5 @@
 from math import sqrt
+from tabulate import tabulate
 
 class Transaction:
     """This class defined functions of transactions."""
@@ -89,14 +90,10 @@ class Transaction:
     
     # Defined function to display all items on the shopping list
     def check_order(self):
-        print(" "*18, "SHOPPING LIST", " "*18)
-        print("="*50)
-        print("{:<20} {:<20} {:<20}".format("Item", "Quantity", "Price"))
-        print("="*50)
-        for item, qty_price in self.dict_item.items():
-            qty, price = qty_price
-            print("{:<20} {:<20} {:<20}".format(item, qty, price))
-    
+        print("\033[1m", "SHOPPING LIST", "\033[0m")
+        list_item = [(key, value[0], value[1]) for key, value in self.dict_item.items()]
+        print(tabulate(list_item, headers = ["Name", "Qty", "Price"], tablefmt="mixed_grid"))
+        
     
     # Defined function to returns total price
     def total_price(self):

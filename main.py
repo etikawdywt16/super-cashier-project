@@ -123,7 +123,7 @@ def menu():
                     choice_5 = int(input("Menu choice: "))
 
                     if choice_5 == 1:
-                        transaction.cancel()
+                        transaction.reset_item()
                         return
                     elif choice_5 == 2:
                         break

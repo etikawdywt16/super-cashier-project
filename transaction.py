@@ -359,12 +359,3 @@ class Transaction:
                                                    "Discount",
                                                    "Total Price After Discount"], 
                        tablefmt="mixed_grid"))
-    
-    
-    # defined method to cancel the transaction. All items in the shopping list will be reset.
-    def cancel(self):
-        """
-        A method to cancel transaction and all items in the shopping list will be reset.
-        """
-        
-        self.shop_list.clear()

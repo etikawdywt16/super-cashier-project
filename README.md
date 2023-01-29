@@ -64,7 +64,7 @@ In case input invalid, ex: empty name input or string type quantity and price in
 #### Case 4: Update Item Price ####
 ![9-Test Case 4](https://user-images.githubusercontent.com/91242818/215303467-2b411889-cef3-46ca-82ea-bb4f997c104b.png)
 
-In case name input can't be found in the system, then a warning is appeared to require available name:
+In case name input can't be found in the shopping list, then a warning is appeared to require available name:
 
 ![10-Test Case](https://user-images.githubusercontent.com/91242818/215303501-892cfcd9-e440-400f-b370-659f8d5908e8.png)
 

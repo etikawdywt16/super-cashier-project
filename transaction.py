@@ -148,8 +148,8 @@ class Transaction:
             while True:
                 self.new_name = input("New item name: ")
                 
-                # create condition item name can't be empty or only contains space or a number
-                if check_string(self.old_name) == "Invalid":
+                # create condition new item name can't be empty or only contains space or a number
+                if check_string(self.new_name) == "Invalid":
                     print("Invalid input. Please input item name!")
                 else:
                     self.shop_list[self.new_name] = self.shop_list[self.old_name]

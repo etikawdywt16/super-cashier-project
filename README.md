@@ -21,16 +21,47 @@ Super Cashier is a program using Python language program to create a self-servic
 4. Apply PEP8 and docstring to write clean code
 
 
-### Flowchart ##
+### Program Flowchart ##
 ---------------
+#### Menu Flowchart ####
 ![Super Cashier Project Flowchart](https://user-images.githubusercontent.com/91242818/215302889-093bcda3-5014-4a25-9863-4c6cb148b2e4.jpg)
+
+#### Method Flowchart ####
+##### Add Item #####
+![Flowchart-1](https://user-images.githubusercontent.com/91242818/215308279-4231dfe5-a1a3-40be-bd7a-30b17a7f078c.jpg)
+
+#### Update Item Name ####
+![Flowchart-2](https://user-images.githubusercontent.com/91242818/215308285-41562378-30f8-461a-8b68-648cb50772a4.jpg)
+
+#### Update Item Quantity ####
+![Flowchart-3](https://user-images.githubusercontent.com/91242818/215308494-42aedf3f-ba44-4826-8e7a-f1f9f80ae5e0.jpg)
+
+#### Update Item Price ####
+![Flowchart-4](https://user-images.githubusercontent.com/91242818/215308513-19fcf071-cd09-447f-a607-f9669a1d0046.jpg)
+
+#### Delete Item ####
+![Flowchart-5](https://user-images.githubusercontent.com/91242818/215308591-b2e9fcce-3c86-45a9-8fba-6b23bfdc09ec.jpg)
+
+#### Check Order ####
+![Flowchart-6](https://user-images.githubusercontent.com/91242818/215309076-88b40abc-1f22-494f-aab5-5bac39c0de1c.jpg)
+
+#### Reset Items ####
+![Flowchart-7](https://user-images.githubusercontent.com/91242818/215308710-9e227b58-8d0b-4b69-b70a-aa32ea6e72e9.jpg)
+
+#### Total Price ####
+![Flowchart-8](https://user-images.githubusercontent.com/91242818/215308811-f285d5e7-2d3b-447b-9ec0-710443fae284.jpg)
+
+#### Check Out ####
+![Flowchart-9](https://user-images.githubusercontent.com/91242818/215309110-8bb58350-aeed-498d-a99f-3f3182309e51.jpg)
+
+#### History of Transaction ####
+![Flowchart-10](https://user-images.githubusercontent.com/91242818/215309154-2cda1592-a606-4925-8ef9-68195edef253.jpg)
 
 
 ### Program Description ###
 ---------------
 Function for each features in Super Cashier system:
-![Program Description](https://user-images.githubusercontent.com/91242818/215302924-749e377e-be76-4a8d-a83b-319e1484e083.png)
-
+![Program Description](https://user-images.githubusercontent.com/91242818/215308245-578881e5-424e-4499-b106-b34233452232.png)
 
 ### Test Case and How to Run Program ###
 ---------------
@@ -97,8 +128,15 @@ Total price and discount:
 ![18-Test Case 10](https://user-images.githubusercontent.com/91242818/215303826-1421b750-8c4b-492d-8b1a-0c615048ee0c.png)
 
 #### Case 11: Exit Transaction ####
-![19-Test Case 11](https://user-images.githubusercontent.com/91242818/215303831-98be899f-64b5-4b54-88a4-748d491ba8a6.png)
+![19-Test Case 11](https://user-images.githubusercontent.com/91242818/215309488-65bce7d6-dab1-41e0-affe-32845e617f49.png)
 
 
-### Conculsion ###
+### Conclusion and Future Work ###
 ---------------
+#### Conclusion ####
+1. Develop class Transaction and create methods of transaction
+2. Develop menu to simplify transaction
+
+#### Future Work ####
+1. Develop class User and create method to track transaction for each user
+2. Connect program to database so user can only input available items in the database

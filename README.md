@@ -134,9 +134,11 @@ Total price and discount:
 ### Conclusion and Future Work ###
 ---------------
 #### Conclusion ####
-1. Develop class Transaction and create methods of transaction
-2. Develop menu to simplify transaction
+After all these processes, we have:
+1. Developed class Transaction and create methods of transaction
+2. Developed menu to simplify transaction
 
 #### Future Work ####
+Hope the next work we will:
 1. Develop class User and create method to track transaction for each user
 2. Connect program to database so user can only input available items in the database

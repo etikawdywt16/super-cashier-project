@@ -61,7 +61,8 @@ Super Cashier is a program using Python language program to create a self-servic
 ### Program Description ###
 ---------------
 Function for each features in Super Cashier system:
-![Program Description](https://user-images.githubusercontent.com/91242818/215308245-578881e5-424e-4499-b106-b34233452232.png)
+![Program Description](https://user-images.githubusercontent.com/91242818/218241068-2c53bbd2-ba90-4a66-a107-1000be85b3aa.png)
+
 
 ### Test Case and How to Run Program ###
 ---------------
@@ -103,7 +104,7 @@ In case name input can't be found in the shopping list, then a warning is appear
 ![11-Test Case 5](https://user-images.githubusercontent.com/91242818/215303507-64d48f2b-a9f1-4892-9529-4a1107a2dee7.png)
 
 #### Case 6: Show All Items ####
-![12-Test Case 6](https://user-images.githubusercontent.com/91242818/215303512-ede0518d-dcd6-48cf-bc41-e460183c4045.png)
+![12-Test Case 6](https://user-images.githubusercontent.com/91242818/218241069-d646741b-772a-4136-8052-eeba0aa939fe.png)
 
 #### Case 7: Reset Item ####
 ![13-Test Case 7](https://user-images.githubusercontent.com/91242818/215303517-701fb5c7-101b-407c-a9e3-96c67b6c5081.png)
@@ -115,7 +116,7 @@ Shopping list after reset:
 #### Case 8: Show Total Price and Discount ####
 After add some items to the shopping list:
 
-![15-Test Case 8](https://user-images.githubusercontent.com/91242818/215303804-966e1ee6-edb6-48c9-a251-3af6aa407337.png)
+![15-Test Case 8](https://user-images.githubusercontent.com/91242818/218241078-a9a498d8-c9a1-414c-9294-9ee7e3399a62.png)
 
 Total price and discount:
 

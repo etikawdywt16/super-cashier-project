@@ -169,7 +169,7 @@ class Transaction:
                 Item name must be in the shopping list.
                 If the item name is not in the shopping list, then the input is invalid.
                 
-        new item quantity : str
+        new item quantity : int
                 New item quantity must be integer and not string or None.
         """
         
@@ -200,7 +200,7 @@ class Transaction:
                 Item name must be in the shopping list.
                 If the item name is not in the shopping list, then the input is invalid.
                 
-        new item price : str
+        new item price : int or float
                 New item quantity must be integer or float, not string or None.
         """
         

@@ -115,7 +115,7 @@ class Transaction:
                             if self.price < 0:
                                 print("Invalid input. Please input item price!")
                             else:
-                                self.shop_list[self.name] = [self.qty, self.price]
+                                self.shop_list[self.name] = [self.qty, self.price, self.qty * self.price]
                                 print(f"{self.name} added to the shopping list")
                                 break
                         except:
@@ -261,8 +261,9 @@ class Transaction:
         print("\033[1m", "S H O P P I N G   L I S T", "\033[0m")
         
         # convert dictionary shop_list as tabular
-        list_item = [(key, value[0], "{:,.2f}".format(value[1])) for key, value in self.shop_list.items()]  
-        print(tabulate(list_item, headers = ["Name", "Quantity", "Price"], tablefmt="mixed_grid"))  
+        list_item = [(key, value[0], "{:,.2f}".format(value[1]), "{:,.2f}".format(value[2]))\
+                     for key, value in self.shop_list.items()]  
+        print(tabulate(list_item, headers = ["Name", "Quantity", "Price", "Total"], tablefmt="mixed_grid"))  
         
     
     # defined method to return total price

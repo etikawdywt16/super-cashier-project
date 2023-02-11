@@ -51,7 +51,7 @@ class Transaction:
             delete all items in the shopping list
             
     check_order :
-            print the shopping list contains item name, item quantity, and item price
+            print the shopping list contains item name, item quantity, item price, and total
             
     total_price :
             calculate and print total price of all items in the shopping list and discount received

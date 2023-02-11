@@ -13,7 +13,7 @@ def check_string(text):
     Returns
     ==========
     Invalid or None : str, NoneType
-            validation wheter or not the text a string and not a number or None
+            validation whether or not the text a string and not a number or None
     """
     
     if len(text) == 0 or len(text) == text.count(" "):

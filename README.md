@@ -37,7 +37,7 @@ Super Cashier is a program using Python language program to create a self-servic
 ![Flowchart-3](https://user-images.githubusercontent.com/91242818/218292477-6ff4fac3-decd-4b5c-8a2d-2be01a27c075.jpg)
 
 #### Update Item Price ####
-![Flowchart-4](https://user-images.githubusercontent.com/91242818/218292478-1d29bde7-1f69-42d2-ac16-740ec5262f16.jpg)
+![Flowchart-4](https://user-images.githubusercontent.com/91242818/218296757-890d1c5c-031d-441b-ac75-527bfe114157.jpg)
 
 #### Delete Item ####
 ![Flowchart-5](https://user-images.githubusercontent.com/91242818/218292479-6963aa1b-fd75-44cb-877d-7f20ee3cd7d0.jpg)

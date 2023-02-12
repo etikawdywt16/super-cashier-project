@@ -31,16 +31,16 @@ Super Cashier is a program using Python language program to create a self-servic
 ![Flowchart-1](https://user-images.githubusercontent.com/91242818/215308279-4231dfe5-a1a3-40be-bd7a-30b17a7f078c.jpg)
 
 #### Update Item Name ####
-![Flowchart-2](https://user-images.githubusercontent.com/91242818/215308285-41562378-30f8-461a-8b68-648cb50772a4.jpg)
+![Flowchart-2](https://user-images.githubusercontent.com/91242818/218292473-3a8611d4-b88c-46fa-8135-2d40d3656145.jpg)
 
 #### Update Item Quantity ####
-![Flowchart-3](https://user-images.githubusercontent.com/91242818/215308494-42aedf3f-ba44-4826-8e7a-f1f9f80ae5e0.jpg)
+![Flowchart-3](https://user-images.githubusercontent.com/91242818/218292477-6ff4fac3-decd-4b5c-8a2d-2be01a27c075.jpg)
 
 #### Update Item Price ####
-![Flowchart-4](https://user-images.githubusercontent.com/91242818/215308513-19fcf071-cd09-447f-a607-f9669a1d0046.jpg)
+![Flowchart-4](https://user-images.githubusercontent.com/91242818/218292478-1d29bde7-1f69-42d2-ac16-740ec5262f16.jpg)
 
 #### Delete Item ####
-![Flowchart-5](https://user-images.githubusercontent.com/91242818/215308591-b2e9fcce-3c86-45a9-8fba-6b23bfdc09ec.jpg)
+![Flowchart-5](https://user-images.githubusercontent.com/91242818/218292479-6963aa1b-fd75-44cb-877d-7f20ee3cd7d0.jpg)
 
 #### Check Order ####
 ![Flowchart-6](https://user-images.githubusercontent.com/91242818/215309076-88b40abc-1f22-494f-aab5-5bac39c0de1c.jpg)
@@ -52,10 +52,10 @@ Super Cashier is a program using Python language program to create a self-servic
 ![Flowchart-8](https://user-images.githubusercontent.com/91242818/218290288-a2fcdf06-6978-4b5b-9636-e722a6c6f874.jpg)
 
 #### Check Out ####
-![Flowchart-9](https://user-images.githubusercontent.com/91242818/215309110-8bb58350-aeed-498d-a99f-3f3182309e51.jpg)
+![Flowchart-9](https://user-images.githubusercontent.com/91242818/218292516-87787f4b-3bf6-4b9d-aa98-509747dc422c.jpg)
 
 #### History of Transaction ####
-![Flowchart-10](https://user-images.githubusercontent.com/91242818/215309154-2cda1592-a606-4925-8ef9-68195edef253.jpg)
+![Flowchart-10](https://user-images.githubusercontent.com/91242818/218292520-4998c295-cdc0-45cf-bea8-02043523c48f.jpg)
 
 
 ### Program Description ###

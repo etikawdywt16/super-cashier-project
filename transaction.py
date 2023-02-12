@@ -288,7 +288,7 @@ class Transaction:
         
         If total price more than Rp.500,000.00, then get 10% discount
         If total price more than Rp.300,000.00, then get 8% discount
-        If total price more than Rp.200,000.00, then get 2% discount
+        If total price more than Rp.200,000.00, then get 5% discount
         """
 
         # create condition when the customers get discount and calculate discount received
@@ -297,7 +297,7 @@ class Transaction:
         elif self.total > 300_000:
             self.disc = 0.08 * self.total
         elif self.total > 200_000:
-            self.disc = 0.02 * self.total
+            self.disc = 0.05 * self.total
         else:
             self.disc = 0
         

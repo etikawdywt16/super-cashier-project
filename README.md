@@ -104,7 +104,7 @@ In case name input can't be found in the shopping list, then a warning is appear
 ![11-Test Case 5](https://user-images.githubusercontent.com/91242818/215303507-64d48f2b-a9f1-4892-9529-4a1107a2dee7.png)
 
 #### Case 6: Show All Items ####
-![12-Test Case 6](https://user-images.githubusercontent.com/91242818/218241069-d646741b-772a-4136-8052-eeba0aa939fe.png)
+![12-Test Case 6](https://user-images.githubusercontent.com/91242818/218319121-6c414d0a-d343-4206-b314-ffb2ea65cffa.png)
 
 #### Case 7: Reset Item ####
 ![13-Test Case 7](https://user-images.githubusercontent.com/91242818/215303517-701fb5c7-101b-407c-a9e3-96c67b6c5081.png)

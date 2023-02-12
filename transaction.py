@@ -317,7 +317,7 @@ class Transaction:
         print(f"Total price : Rp. {self.total:,.2f}")
 
         # print discount received
-        print(f"You get discount : Rp. {self.disc:,.2f}")
+        print(f"You get discount : Rp. {self.disc:,.2f}") if self.disc > 0 else None
 
         # total price after discount
         print(f"Total price after discount : Rp. {self.total - self.disc:,.2f}") if self.disc > 0 else None

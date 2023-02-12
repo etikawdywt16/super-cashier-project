@@ -24,7 +24,7 @@ Super Cashier is a program using Python language program to create a self-servic
 ### Program Flowchart ##
 ---------------
 #### Menu Flowchart ####
-![Super Cashier Project Flowchart](https://user-images.githubusercontent.com/91242818/215302889-093bcda3-5014-4a25-9863-4c6cb148b2e4.jpg)
+![Super Cashier Project Flowchart](https://user-images.githubusercontent.com/91242818/218290221-a9dbb7d4-9fa5-42cf-adfd-cba9d0c3bd63.jpg)
 
 #### Method Flowchart ####
 ##### Add Item #####
@@ -49,7 +49,7 @@ Super Cashier is a program using Python language program to create a self-servic
 ![Flowchart-7](https://user-images.githubusercontent.com/91242818/215308710-9e227b58-8d0b-4b69-b70a-aa32ea6e72e9.jpg)
 
 #### Total Price ####
-![Flowchart-8](https://user-images.githubusercontent.com/91242818/215308811-f285d5e7-2d3b-447b-9ec0-710443fae284.jpg)
+![Flowchart-8](https://user-images.githubusercontent.com/91242818/218290288-a2fcdf06-6978-4b5b-9636-e722a6c6f874.jpg)
 
 #### Check Out ####
 ![Flowchart-9](https://user-images.githubusercontent.com/91242818/215309110-8bb58350-aeed-498d-a99f-3f3182309e51.jpg)
@@ -61,7 +61,7 @@ Super Cashier is a program using Python language program to create a self-servic
 ### Program Description ###
 ---------------
 Function for each features in Super Cashier system:
-![Program Description](https://user-images.githubusercontent.com/91242818/218241068-2c53bbd2-ba90-4a66-a107-1000be85b3aa.png)
+![Program Description](https://user-images.githubusercontent.com/91242818/218290367-da0bfa7a-8f9a-4f9a-a7af-e0baa1f0220e.png)
 
 
 ### Test Case and How to Run Program ###
@@ -120,13 +120,13 @@ After add some items to the shopping list:
 
 Total price and discount:
 
-![16-Test Case 8](https://user-images.githubusercontent.com/91242818/215303577-710383c5-a1d1-48e9-8e9b-91075421cfcd.png)
+![16-Test Case 8](https://user-images.githubusercontent.com/91242818/218290146-a6fc3f6d-ffc4-4d94-91db-88ea4799af90.png)
 
 #### Case 9: Check Out Items ####
 ![17-Test Case 9](https://user-images.githubusercontent.com/91242818/215303817-c20b497d-924a-4596-ace9-445f7e5a64e0.png)
 
 #### Case 10: Show History of Transactions ####
-![18-Test Case 10](https://user-images.githubusercontent.com/91242818/215303826-1421b750-8c4b-492d-8b1a-0c615048ee0c.png)
+![18-Test Case 10](https://user-images.githubusercontent.com/91242818/218290180-58cc73c0-4092-4342-ac86-6a44a8c2f10b.png)
 
 #### Case 11: Exit Transaction ####
 ![19-Test Case 11](https://user-images.githubusercontent.com/91242818/215309488-65bce7d6-dab1-41e0-affe-32845e617f49.png)

@@ -236,7 +236,7 @@ class Transaction:
         
         # create condition when the input can't be found in the shopping list
         if self.name not in self.shop_list.keys():
-            print("There's no {self.name} in the shopping list")
+            print(f"There's no {self.name} in the shopping list")
         else:
             self.shop_list.pop(self.name)
             print(f"{self.name} is deleted from the shopping list")

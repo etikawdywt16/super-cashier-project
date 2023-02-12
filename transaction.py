@@ -183,6 +183,7 @@ class Transaction:
                 try:
                     self.new_qty = int(input("New item quantity: "))
                     self.shop_list[self.name][0] = self.new_qty
+                    self.shop_list[self.name][2] = self.shop_list[self.name][0] * self.shop_list[self.name][1]
                     print(f"{self.name} quantity updated")
                     break
                 except:
@@ -214,6 +215,7 @@ class Transaction:
                 try:
                     self.new_price = float(input("New item price: "))
                     self.shop_list[self.name][1] = self.new_price
+                    self.shop_list[self.name][2] = self.shop_list[self.name][0] * self.shop_list[self.name][1]
                     print(f"{self.name} price updated")
                     break
                 except:
